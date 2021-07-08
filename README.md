@@ -16,7 +16,7 @@
 | LeetCode | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Array | [md](https://github.com/edenjoah/CPPS/blob/main/Array/leetcode_0485.md) | + |
 | LeetCode | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Array | [md](https://github.com/edenjoah/CPPS/blob/main/Array/leetcode_1295.md) | + |
 | LeetCode | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Array | [md](https://github.com/edenjoah/CPPS/blob/main/Array/leetcode_0977.md) | + |
-| LeetCode | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Array |  |  |
+| LeetCode | [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Array | [md](https://github.com/edenjoah/CPPS/blob/main/Array/leetcode_1089.md) | ? |
 | LeetCode | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Array |  |  |
 | LeetCode | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Array |  |  |
 | LeetCode | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array |  |  |
